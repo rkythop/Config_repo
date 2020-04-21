@@ -1,0 +1,5 @@
+"jms":
+  "password-secure": "{cipher}4761acb067fe90cc5cfc469dcc6f90fcd5c79b10aa31fdf3181b8039224e2620"
+  "port": "61616"
+  "user": "username"
+  "host": "localhost"
