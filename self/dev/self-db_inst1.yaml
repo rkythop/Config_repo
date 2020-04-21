@@ -1,0 +1,5 @@
+"db":
+  "user": "username2"
+  "port": "2222"
+  "host": "localhost"
+  "password-secure": "{cipher}03f648f19ac40cf48f4071a2240dcd1767c616f27fa39cdcd7a7bb3644cd1a49"
