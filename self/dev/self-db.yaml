@@ -1,0 +1,5 @@
+"db":
+  "user": "username"
+  "port": "1111"
+  "host": "localhost"
+  "password-secure": "{cipher}19f527f723fabc96b0d2272864e669992b22b258bdf8e7cf308f5fee59021877"
